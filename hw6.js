@@ -28,10 +28,9 @@ const arr4 = [];
 
 for (let i = 0; i < 3; i++) {
 	arr4[i] = []; 
-	
+}
 	for (let j = 0; j < 3; j++) {
-		arr4[i][j] = 1; // заполняем подмассив числами
-	};
+		arr4[i][j] = 1; 
 };
 
 console.log(arr);
